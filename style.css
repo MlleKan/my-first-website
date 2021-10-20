@@ -1,3 +1,28 @@
+
 body {
-    background-color: #e4090905;
+  background-image: url("Castal.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: left top;
+  background-size: 100% 100%;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+h2 {
+  color: goldenrod;
+}
+p {
+  color: goldenrod;
+}
+
+  .shadowbox {
+    width: 15em;
+    border: 1px solid rgb(114, 113, 153);
+    box-shadow: 8px 8px 5px rgb(172, 50, 50);
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
   }
+
