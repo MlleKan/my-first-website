@@ -8,4 +8,5 @@ function mDown(obj) {
     obj.innerHTML="Thank You";
   }
 
- 
+alert("HI THERE, THANK YOU FOR VISITING MY WEBSITE")
+  
