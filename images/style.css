@@ -1,0 +1,32 @@
+
+body {
+    background-image: url("Utah.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: left top;
+    background-size: 100% 100%;
+  }
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid rgba(204, 204, 204, 0.897);
+    bottom: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid rgba(204, 204, 204, 0.911);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: honeydew;
+  }
+  
