@@ -1,3 +1,6 @@
+
+//Gallery
+
 alert("HI THERE, WELCOME TO MY WORLD") 
 
 
